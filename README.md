@@ -1,6 +1,5 @@
 Olá !
-
-Meu nome é Lupércio Fernando Ferraz. Sou desenvolvedor de aplicações Java com mais de 10 anos de experiência e estou me aventurando agora em programação Front End utilizando React e React Native. 
+Meu nome é Lupércio e sou desenvolvedor de aplicações Java com mais de 10 anos de experiência, em constante aprendizado para atuar como desenvolvedor FullStack utilizando Spring Boot e React.
 
 Para saber mais sobre mim:
 
