@@ -1,5 +1,5 @@
 Olá !
-Meu nome é Lupércio e sou Analista e Desenvolvedor de Sistemas em Java com 13 anos de experiência, atuando em sistemas Web utilizando a arquitetura JEE. Estudioso e apaixonado pela Programação, estou sempre buscando estar em sintonia com novas tecnologias, ferramentas e melhores práticas que possam ajudar a implementar Sistemas de alta qualidade.
+Meu nome é Lupércio e sou Analista e Desenvolvedor de Sistemas em Java, atuando em sistemas Web utilizando a arquitetura JEE. Estudioso e apaixonado pela Programação, estou sempre buscando estar em sintonia com novas tecnologias, ferramentas e melhores práticas que possam ajudar a implementar Sistemas de alta qualidade.
 
 Para saber mais sobre mim:
 
