@@ -3,7 +3,7 @@ Olá ! Meu nome é Lupércio, sou apaixonado pelo Desenvolvimento de Sistemas e 
 ![Lupércio GitHub stats](https://github-readme-stats.vercel.app/api?username=luperciofferraz&show_icons=true&theme=dracula&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luperciofferraz&layout=compact)(https://github.com/luperciofferraz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luperciofferraz&layout=compact)
 
 Para saber mais sobre mim:
 
